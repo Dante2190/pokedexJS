@@ -1,0 +1,3 @@
+# pokedexJS
+
+html, css, javascript
